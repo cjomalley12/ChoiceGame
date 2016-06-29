@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ChoiceGame</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="correct_toast">You know it!</string>
+    <string name="incorrect_toast">Incorrect.</string>
+    <string name="next_button">Next</string>
+    <string name="back_button">Back</string>
+    <string name="question_tonic">Tonic is dope.</string>
+    <string name="question_jm">JM is here today.</string>
+    <string name="question_dinner">Dinner is on Leon.</string>
+    <string name="question_monitors">Two screens is enough.</string>
+    <string name="warning_text">Are you sure you would like to continue?</string>
+    <string name="show_answer_button">Show Answer</string>
+    <string name="cheat_button">Cheat!</string>
+    <string name="judgement_toast">Cheating is wrong.</string>
+    <string name="title_activity_cheat">Cheat</string>
+</resources>
